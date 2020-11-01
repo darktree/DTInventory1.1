@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/DT Inventory Pro/Demo - with inventory.unity
+  isLoaded: 1
+  isActive: 1
